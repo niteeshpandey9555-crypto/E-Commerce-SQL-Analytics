@@ -1,4 +1,4 @@
-
+---
 -- Customer Lifetime Value (CLV)
 SELECT 
   c.customer_id,
